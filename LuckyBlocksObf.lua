@@ -11,7 +11,8 @@ Credits:
 !Alex#6187
 Tameria#0001
 
-Discord server for key:
+key:
+ilovecats
 https://discord.gg/Dex6S7CC5G)
 --]]
 
